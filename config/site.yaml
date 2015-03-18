@@ -10,20 +10,6 @@ title: Awesome Title
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-# Links to include in footer navigation
-# For external links add external: true
-links:
-  - title: Services
-    url: '#services'
-  - title: Portfolio
-    url: '#portfolio'
-  - title: About
-    url: '#about'
-  - title: Team
-    url: '#team'  
-  - title: Contact
-    url: '#contact'           
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -36,3 +22,35 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
+
+logo:
+  text1: "Twenty"
+  text2: "by HTML5 UP"
+
+# Main Menu
+menu:
+  - text: "Left Sidebar"
+    link: "#"
+  - text: "Right Sidebar"
+    link: "#" 
+  - text: "No Sidebar"
+    link: "#"
+  - text: "Contact"
+    link: "#"  
+
+# Submenu
+submenu:
+  - text: "Dolore Sed"
+    link: "#"
+  - text: "Consequat"
+    link: "#" 
+  - text: "Lorem Magna"
+    link: "#"
+  - text: "Sed Magna"
+    link: "#"  
+  - text: "Ipsum Nisl"
+    link: "#"    
+
+buttons:
+  - text: "Sign Up" 
+    link: "#"
