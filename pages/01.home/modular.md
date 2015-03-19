@@ -9,6 +9,9 @@ content:
         dir: asc
         custom:
             - _banner
+            - _header
+            - _icons
+            - _features
 ---
 
 
