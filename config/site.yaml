@@ -43,7 +43,7 @@ menu:
   - text: "Left Sidebar"
     link: "leftsidebar"
   - text: "Right Sidebar"
-    link: "#" 
+    link: "rightsidebar" 
   - text: "No Sidebar"
     link: "#"
   - text: "Contact"
