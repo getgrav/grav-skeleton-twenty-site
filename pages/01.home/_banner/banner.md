@@ -3,6 +3,7 @@ title: TWENTY
 buttons:
     - text: Tell me more
       url: '#main'
+menu: banner      
 ---
 
 <p>This is <strong>Twenty</strong>, a free
