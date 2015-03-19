@@ -12,17 +12,28 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - label: Twitter
+    url: "#"
+    icon: twitter
+  - label: Facebook
+    url: "#"
+    icon: facebook
+  - label: Google+
+    url: "#"
+    icon: google-plus
+  - label: Github 
+    url: "#"
+    icon: github
+  - label: Dribbble
+    url: "#"
+    icon: dribbble
 
+copyright: 
+  line1: Untitled
+  line2: Design:
+  url: http://html5up.net
+  url_label: HTML5 UP
+    
 logo:
   text1: "Twenty"
   text2: "by HTML5 UP"
