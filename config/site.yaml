@@ -45,7 +45,7 @@ menu:
   - text: "Right Sidebar"
     link: "rightsidebar" 
   - text: "No Sidebar"
-    link: "#"
+    link: "nosidebar"
   - text: "Contact"
     link: "#"  
 
