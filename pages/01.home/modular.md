@@ -2,6 +2,8 @@
 title: Twenty
 menu: Home
 onpage_menu: true
+body_class: index
+header_class: alt
 content:
     items: @self.modular
     order:

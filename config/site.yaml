@@ -41,7 +41,7 @@ logo:
 # Main Menu
 menu:
   - text: "Left Sidebar"
-    link: "#"
+    link: "leftsidebar"
   - text: "Right Sidebar"
     link: "#" 
   - text: "No Sidebar"
