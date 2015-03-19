@@ -47,7 +47,7 @@ menu:
   - text: "No Sidebar"
     link: "nosidebar"
   - text: "Contact"
-    link: "#"  
+    link: "contact"  
 
 # Submenu
 submenu:

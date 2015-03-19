@@ -1,0 +1,43 @@
+enabled: true
+
+fields:
+  name:
+    type: "text"
+    title: "Name"
+    default: ""
+    placeholder: "Name"
+    class: ""
+    required: true
+
+  email:
+    type: "email"
+    title: "Email"
+    default: ""
+    placeholder: "Email"
+    class: ""
+    required: true
+
+  subject:
+    type: "subject"
+    title: "Subject"
+    default: ""
+    placeholder: "Subject"
+    class: ""
+    required: true    
+
+  message:
+    type: "textarea"
+    title: "Message"
+    default: ""
+    placeholder: "Message"
+    class: ""
+    required: true
+
+  submit:
+    type: "submit"
+    title: "Submit"
+    default: ""
+    class: ""
+
+messages:
+  success: "Your message has been sent."
