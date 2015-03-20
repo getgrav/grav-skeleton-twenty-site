@@ -1,6 +1,6 @@
 name: Twenty Site
 version: 1.0.0
-description: "The **Twenty Skeleton** provides a great example of how to build a modern on-page design with navigation that scrolls to the relevant section of the page."
+description: "Twenty is a free and responsive theme for **Grav**. It's a port of **Twenty** template by HTML5 UP."
 icon: group
 author:
   name: Team Grav
