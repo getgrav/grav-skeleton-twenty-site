@@ -8,11 +8,12 @@ This Grav theme is a port of the [Twenty theme](http://html5up.net/twenty) by [H
 
 * Fully responsive
 * Built on HTML5/CSS3/skel
-* Sections icons by Font Awesome
+* Section icons by Font Awesome
 * Released for free under the Creative Commons Attribution 3.0
 * Social Icons
 * Simple Form Support
-* Additional Menus and sidebar options
+* Layouts: Modular, Right Sidebar, Left Sidebar, No sidebar
+* Special layouts: Portfolio, Bottom Modules
 
 ## Basic Setup for a new Grav site
 
