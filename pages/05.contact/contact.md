@@ -4,7 +4,9 @@ description: Use the form below to give /dev/null a piece of your mind.
 body_class: contact
 icon: envelope
 simple_form:
-      token: "your token goes here"     
+      token: "your token goes here" 
+      template_file: "simple_form"
+      redirect_to: /thankyou    
 buttons:
     - text: Take My Money
       url: '#'
