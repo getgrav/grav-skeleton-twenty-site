@@ -1,8 +1,7 @@
 ---
-title: Right Sidebar
+title: No Sidebar
 subtitle: "And finally there's <strong>No Sidebar</strong>"
 description: "Where that in the center faces the nameless horrors alone."
-menu: nosidebar
 body_class: no-sidebar
 header_class: skel-layers-fixed
 icon: mobile
@@ -15,5 +14,3 @@ content:
         custom:
             - _content
 ---
-
-

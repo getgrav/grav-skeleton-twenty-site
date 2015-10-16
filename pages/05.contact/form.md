@@ -3,6 +3,7 @@ title: Get In Touch
 description: Use the form below to give /dev/null a piece of your mind.
 body_class: contact
 icon: envelope
+menu: Contact
 form:
     name: my-nice-form
     fields:
@@ -58,6 +59,5 @@ buttons:
       url: '#'
       class: special
     - text: LOL Wut
-      url: '#'  
-menu: after_article      
+      url: '#'      
 ---
