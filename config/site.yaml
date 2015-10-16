@@ -4,7 +4,7 @@ author:
   email: 'joe@test.com'
 metadata:
     description: 'Twenty is a free and responsive theme for **Grav**. Its a port of Twenty template by HTML5 UP.'
-    
+
 # Site settings
 title: Awesome Title
 email: your-email@domain.com
@@ -21,47 +21,36 @@ social:
   - label: Google+
     url: "#"
     icon: google-plus
-  - label: Github 
+  - label: Github
     url: "#"
     icon: github
   - label: Dribbble
     url: "#"
     icon: dribbble
 
-copyright: 
+copyright:
   line1: Untitled
   line2: Design:
   url: http://html5up.net
   url_label: HTML5 UP
-    
+
 logo:
   text1: "Twenty"
   text2: "by HTML5 UP"
-
-# Main Menu
-menu:
-  - text: "Left Sidebar"
-    link: "leftsidebar"
-  - text: "Right Sidebar"
-    link: "rightsidebar" 
-  - text: "No Sidebar"
-    link: "nosidebar"
-  - text: "Contact"
-    link: "contact"  
 
 # Submenu
 submenu:
   - text: "Dolore Sed"
     link: "#"
   - text: "Consequat"
-    link: "#" 
+    link: "#"
   - text: "Lorem Magna"
     link: "#"
   - text: "Sed Magna"
-    link: "#"  
+    link: "#"
   - text: "Ipsum Nisl"
-    link: "#"    
+    link: "#"
 
 buttons:
-  - text: "Sign Up" 
+  - text: "Sign Up"
     link: "#"
