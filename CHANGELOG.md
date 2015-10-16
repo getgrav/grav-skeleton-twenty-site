@@ -1,3 +1,9 @@
+# v1.1.0
+## 10/16/2015
+
+1. [](#new)
+    * Files reorganization for major Twenty update
+
 # v1.0.3
 ## 10/15/2015
 
