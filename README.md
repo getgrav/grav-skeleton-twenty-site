@@ -41,4 +41,4 @@ This will install the Twenty theme into your `/user/themes` directory within Gra
 You can find more information bout this process, including manual installation instructions, by visiting the [project page for the stand-alone Grav theme](https://github.com/getgrav/grav-theme-twenty).
 
 # Contact Form Configuration
-For contact form configuration instructions please refer to [official documentatnion](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.
+For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and Form plugin though.
